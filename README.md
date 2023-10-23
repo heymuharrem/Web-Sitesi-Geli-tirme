@@ -72,11 +72,9 @@ WordPress, dünya genelinde web sitelerinin %40'tan fazlasında kullanılan pop�
 
 Bu firmalar, WordPress’in güvenilirliğini ve esnekliğini kanıtlamaktadır ve WordPress ile oluşturulan web sitelerinin dünya standartlarında olabileceğini göstermektedir.
 
-## 📞 İletişim Bilgileri
+## 📞 İletişim Bilgilerim
 
 Bana aşağıdaki iletişim kanallarından ulaşabilirsiniz. Projeleriniz, sorularınız veya danışmanlık için her zaman iletişime geçebilirsiniz.
-
-## 📞 İletişim Bilgileri
 
 <div align="center">
    <a href="https://wa.me/905388958640?text=%F0%9F%98%83%20Merhaba!%20GitHub%20profilinizden%20numaran%C4%B1za%20ula%C5%9Ft%C4%B1m.%20Birka%C3%A7%20soru%20sormak%20istiyorum." target="_blank">
@@ -89,5 +87,6 @@ Bana aşağıdaki iletişim kanallarından ulaşabilirsiniz. Projeleriniz, sorul
       <img src="https://img.shields.io/badge/-Instagram-grey?style=flat&logo=instagram" alt="Instagram ile İletişim"/>
    </a>
 </div>
+
 
 
