@@ -76,13 +76,18 @@ Bu firmalar, WordPress’in güvenilirliğini ve esnekliğini kanıtlamaktadır 
 
 Bana aşağıdaki iletişim kanallarından ulaşabilirsiniz. Projeleriniz, sorularınız veya danışmanlık için her zaman iletişime geçebilirsiniz.
 
-### Telefon
-📱 **[+905388958640](tel:+905388958640)**
+## 📞 İletişim Bilgileri
 
-### E-posta
-📧 **[heymuharrem@gmail.com](mailto:heymuharrem@gmail.com)**
-
-### Instagram
-📸 **[@heymuharrem](https://www.instagram.com/heymuharrem)**
+<div align="center">
+   <a href="https://wa.me/905388958640?text=%F0%9F%98%83%20Merhaba!%20GitHub%20profilinizden%20numaran%C4%B1za%20ula%C5%9Ft%C4%B1m.%20Birka%C3%A7%20soru%20sormak%20istiyorum." target="_blank">
+      <img src="https://img.shields.io/badge/-WhatsApp-grey?style=flat&logo=whatsapp" alt="WhatsApp ile İletişim"/>
+   </a>
+   <a href="mailto:heymuharrem@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-E--mail-grey?style=flat&logo=gmail" alt="E-posta ile İletişim"/>
+   </a>
+   <a href="https://www.instagram.com/heymuharrem" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-grey?style=flat&logo=instagram" alt="Instagram ile İletişim"/>
+   </a>
+</div>
 
 
